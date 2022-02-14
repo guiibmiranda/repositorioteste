@@ -1,0 +1,1 @@
+Alguns códigos utilizados nas aulas de introdução ao Javascript!
